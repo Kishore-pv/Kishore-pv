@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kishore-pv
 - 👀 I’m interested in Dynamic Application Developement and Web Developement
-- 🌱 I’m currently learning JS, Vue, Java, PHP ...
+- 🌱 I’m currently learning JS, Vue, Java, PHP, React ...
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me on https://www.linkedin.com/in/kishore-pv-919670155/
 
